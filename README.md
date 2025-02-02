@@ -2,6 +2,8 @@
 
 This project monitors the price of the Kindle Fire on Amazon and sends an automated notification when the price drops by a specified threshold.
 
+[![Watch the video](https://img.youtube.com/vi/IeScBgtNUzo/maxresdefault.jpg)](https://youtu.be/IeScBgtNUzo)
+
 ## Features
 - **Web Scraping**: Extracts the Kindle price from Amazon.
 - **Automated Notifications**: Displays a pop-up when the price drops.
